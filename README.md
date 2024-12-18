@@ -30,7 +30,7 @@ git checkout DiaX
 
 Substitua `DiaX` pelo dia desejado (ex.: Dia2, Dia10).
 
-\---
+---
 
 ## Objetivo
 
