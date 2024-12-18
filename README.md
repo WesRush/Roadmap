@@ -117,6 +117,6 @@ Os tópicos principais abordados durante os 100 dias incluem:
 
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-- **E-mail**: gualbertoweslley@gmail.com.com
+- **E-mail**: gualbertoweslley@gmail.com
 - **LinkedIn**: [Weslley Silva](https://www.linkedin.com/in/weslleygcsilva/)
 
