@@ -11,7 +11,7 @@ confirmo que recebi o salário de <salário>, na data <data>
 public class Aula03TiposPrimitivosExercicio {
     public static void main(String[] args) {
         String name = "Weslley";
-        String address = "Rua dos lírios, 40 - Muribeca, Jaboatão dos Guararapes";
+        String address = "Rua A , 900 - Elbaf, Novo Mundo";
         double salary = 15000.00;
         String date = "18-05-2025";
         String report = "eu "+ name +", morando no endereço "+address +
