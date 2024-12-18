@@ -44,6 +44,7 @@ Revisar e solidificar o conhecimento em Java, cobrindo tópicos desde o básico 
 ### Roadmaps
 
 Baseado no roadmap oficial: [Java Roadmap](https://roadmap.sh/java)
+
 Roadmap complementar : [Java Roadmap Complementar](https://brindle-captain-8be.notion.site/Roadmap-de-Java-13ffcdfef67880c4aeddfa4cd65db9e7#13ffcdfef678806ab907e4c04b96a70a)
 
 ### Vídeos de Estudo
