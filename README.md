@@ -80,6 +80,6 @@ Playlist utilizada: [Maratona Java Virado no Jiraya - DevDojo](https://www.youtu
 
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-- **E-mail**: gualbertoweslley@gmail.com.com
+- **E-mail**: gualbertoweslley@gmail.com
 - **LinkedIn**: [Weslley Silva](https://www.linkedin.com/in/weslleygcsilva/)
 
