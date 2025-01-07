@@ -10,6 +10,7 @@ Os dias estão organizados em branches nomeadas como `Dia2`, `Dia3`, `Dia4`, etc
 Cada branch contém os códigos, estudos e exercícios desenvolvidos no respectivo dia.
 
 _Todos os códigos em java estão com comentários feito por mim que uso para me guiar nos estudos._
+_Estou tentando mergear todos os dias na branch main, mas está sendo um grande desafio hahaha_
 ### Como navegar:
 
 1. Faça o clone do repositório:
