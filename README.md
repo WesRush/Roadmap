@@ -1,6 +1,6 @@
-# Roadmap Java - 100 Dias 🚀☕🖥️
+﻿# Roadmap Java - 100 Dias 🚀☕🖥️
 
-Este repositório é dedicado ao meu desafio de 100 dias revisando e praticando Java. A ideia é aprofundar os conhecimentos na linguagem, explorando conceitos fundamentais e avançados. Estou documentando o progresso diariamente e utilizando este README para acompanhar os objetivos gerais e recursos utilizados.
+Este repositório é dedicado ao meu desafio de 100 dias revisando e praticando Java. A ideia é aprofundar os conhecimentos na linguagem, explorando conceitos fundamentais e avançados.
 
 ---
 
@@ -10,7 +10,6 @@ Os dias estão organizados em branches nomeadas como `Dia2`, `Dia3`, `Dia4`, etc
 Cada branch contém os códigos, estudos e exercícios desenvolvidos no respectivo dia.
 
 _Todos os códigos em java estão com comentários feito por mim que uso para me guiar nos estudos._
-_Estou tentando mergear todos os dias na branch main, mas está sendo um grande desafio hahaha_
 ### Como navegar:
 
 1. Faça o clone do repositório:
@@ -21,15 +20,14 @@ git clone <https://github.com/WesRush/Roadmap.git>
 
 ```
 
-1. Troque para a branch de um dia específico:
+1. Troque para esta branch:
 
 ```bash
 
-git checkout DiaX
+git checkout Dia3
 
 ```
 
-Substitua `DiaX` pelo dia desejado (ex.: Dia2, Dia10).
 
 ---
 
@@ -40,7 +38,7 @@ Revisar e solidificar o conhecimento em Java, cobrindo tópicos desde o básico 
 ---
 
 ## Recursos de Estudo
-**Agradeço a todos os responsáveis pelos conteúdos abaixo, sem vocês, eu não conseguiria ter acesso facilitado ao conteúdo.**
+**Agradeço a todos os responsáveis pelos conteúdos abaixo, sem vocês, eu não conseguiria aperfeiçoar minha habilidades técnicas.**
 
 ### Roadmaps
 
@@ -64,52 +62,18 @@ Playlist utilizada: [Maratona Java Virado no Jiraya - DevDojo](https://www.youtu
 
 ---
 
-## Tópicos de Estudo
+## Tópicos estudados neste dia:
 
-Os tópicos principais abordados durante os 100 dias incluem:
+- Exercícios com break e continue
+- Arrays
 
-### Fundamentos de Java
+*Dia difícil, estudei somente 1 hora* 😥
 
-- Configuração de ambiente
-- Sintaxe básica
-- Estruturas de controle
-- Arrays e Coleções
-
-### Orientação a Objetos (OOP)
-
-- Classes e Objetos
-- Encapsulamento, Herança e Polimorfismo
-- Interfaces e Classes Abstratas
-
-### Manipulação de Dados
-
-- Strings
-- Manipulação de Arquivos
-- Serialização e Deserialização
-
-### Estruturas de Dados e Algoritmos
-
-- Listas, Pilhas e Filas
-- Mapas e Conjuntos
-- Algoritmos de ordenação e busca
-
-### Programação Funcional
-
-- Streams e Lambda Expressions
-- Optional API
-
-### Avançado
-
-- Generics
-- Concorrrência e Threads
-- Processamento Assíncrono
-- Design Patterns (Singleton, Factory, etc.)
-
-### APIs e Frameworks
-
-- JDBC (Banco de Dados)
-- Servlets e JSP
-- Spring Boot (Introdução)
+### Progresso baseado no [Java Roadmap](https://roadmap.sh/java) :
+- Basic Syntax ✅
+- Data Types and Variables ✅
+- Conditionals ✅
+- Loops ✅
 
 
 ---
