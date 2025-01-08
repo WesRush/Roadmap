@@ -17,4 +17,11 @@ public class Calculator {
     public void twoNumMult(int num1, int num2){
         System.out.println(num1 * num2);
     }
+    //metodo que é constituído de um tipo de variável precisa de um return
+    public double twoNumDiv (double num1, double num2){
+        if(num2==0){
+            return 0;
+        }
+    return num1/num2;
+    }
 }
