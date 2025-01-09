@@ -24,4 +24,12 @@ public class Calculator {
         }
     return num1/num2;
     }
+    //parametros tipo primitivo
+    public void twoNumAlter (int num1, int num2){
+        num1 =99;
+        num2 = 33;
+        System.out.println("Dentro do twoNumAlter");
+        System.out.println("num1 "+num1);
+        System.out.println("num2 "+num2);
+    }
 }
