@@ -8,6 +8,7 @@ Este repositório é dedicado ao meu desafio de 100 dias revisando e praticando 
 
 Os dias estão organizados em branches nomeadas como `Dia2`, `Dia3`, `Dia4`, etc.
 Cada branch contém os códigos, estudos e exercícios desenvolvidos no respectivo dia.
+
 ---
 ### Observações
 _Todos os códigos em java estão com comentários feito por mim que uso para me guiar nos estudos._
